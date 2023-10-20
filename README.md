@@ -1,2 +1,2 @@
 # kaggle_competition
-some code in kaggle
+This repository contains code and resources for various Kaggle competitions.
